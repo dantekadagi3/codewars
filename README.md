@@ -12,7 +12,7 @@ This repository is a collection of my solutions to a variety of coding challenge
 
 ## 🚀 Technologies Used
 
-- **Languages**: JavaScript, Python, Java, and more!
+- **Languages**: JavaScript and Dart!
 - **Techniques**: Data structures, algorithms, functional programming, and beyond!
 
 ## 🛠️ How to Use This Repository
